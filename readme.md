@@ -15,8 +15,8 @@ This is a Python application that allows users to manipulate audio files downloa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/sound-manipulation-app.git
-cd sound-manipulation-app
+git clone https://github.com/NotJINXZ/SoundModification.git
+cd SoundModification
 ```
 
 2. Install the required dependencies:
@@ -34,10 +34,6 @@ python main.py
 ```
 
 Follow the on-screen instructions to process audio files.
-
-## Screenshots
-
-Include screenshots of your application here.
 
 ## License
 
